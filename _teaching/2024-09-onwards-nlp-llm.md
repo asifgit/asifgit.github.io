@@ -2,7 +2,7 @@
 title: "Innovative NLP with LLM"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2024-onwards-nlp-llm
+permalink: /teaching/2024-09-onwards-nlp-llm
 venue: "Gachon University, Biomedical Engineering"
 date: 2024-09-02
 location: "Seongnam, South Korea"
