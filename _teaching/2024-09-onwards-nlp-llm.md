@@ -8,9 +8,6 @@ date: 2024-09-02
 location: "Seongnam, South Korea"
 ---
 
-Description
-=================
-
 This course introduces Natural Language Processing (NLP) using large language models (LLMs), with a focus on biomedical and scientific texts. Students explore transformers, tokenization, embeddings, and fine-tuning of pre-trained models like BERT and GPT.
 
 Key Topics
