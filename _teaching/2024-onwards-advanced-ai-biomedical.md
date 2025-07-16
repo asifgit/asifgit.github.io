@@ -8,9 +8,6 @@ date: 2024-03-04
 location: "Seongnam, South Korea"
 ---
 
-Description
-=================
-
 This course explores cutting-edge artificial intelligence applications in biomedical science and healthcare. Topics include machine learning for medical data, deep learning for medical imaging, and AI-assisted diagnostics. Students gain hands-on experience working with real-world biomedical datasets using Python and AI frameworks.
 
 Key Topics
