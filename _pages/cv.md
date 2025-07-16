@@ -13,7 +13,6 @@ Education
 ======
 * Ph.D in Computer Engineering, Jeju National University, August 19, 2022 (GPA: 4.34/4.50)
 * Master in Computer Engineering, Jeju National University, August 20, 2019 (GPA: 4.32/4.50)
-* B.S. in GitHub, GitHub University, 2012
 * Bachelor in Computer Sciene, COMSATS University Islamabad, February 17, 2015 (GPA: 3.09/4.00)
 
 Work experience
