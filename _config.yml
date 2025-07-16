@@ -35,9 +35,9 @@ author:
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=C14nwMMAAAAJ&sortby=pubdate"
-  webofscience     : "https://www.webofscience.com/wos/author/record/862693"
-  sciprofiles      : "https://sciprofiles.com/profile/asifmehmood"
-  ieeexplore       : "https://ieeexplore.ieee.org/author/37087082309"
+  webofscience     : "https://www.webofscience.com/wos/author/record/862693" #####
+  sciprofiles      : "https://sciprofiles.com/profile/asifmehmood" #####
+  ieeexplore       : "https://ieeexplore.ieee.org/author/37087082309" #####
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-3019-9191"
   semantic         : # URL
@@ -46,6 +46,7 @@ author:
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=58557055200"
 
   # Repositories and software development
+  dockerhub        : "https://hub.docker.com/u/mehmoodasif"
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
@@ -77,7 +78,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : "https://www.youtube.com/@asifavan/videos"
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
