@@ -35,28 +35,28 @@
     {
       "institution": "Jeju National University",
       "area": "PhD in Computer Engineering",
-      "studyType": "",
+      "studyType": "PhD",
       "startDate": "2019-08-26",
       "endDate": "2022-08-19",
-      "gpa": 4.34/4.50,
+      "gpa": 4.34,
       "courses": []
     },
     {
       "institution": "Jeju National University",
       "area": "Master in Computer Engineering",
-      "studyType": "",
+      "studyType": "Master's",
       "startDate": "2017-09-01",
       "endDate": "2019-08-20",
-      "gpa": 4.32/4.50,
+      "gpa": 4.32,
       "courses": []
     },
     {
       "institution": "COMSATS University Islamabad",
       "area": "Bachelor in Computer Science",
-      "studyType": "",
+      "studyType": "Bachelor's",
       "startDate": "2011-02-01",
       "endDate": "2015-02-17",
-      "gpa": 3.09/4.00,
+      "gpa": 3.09,
       "courses": []
     }
   ],
