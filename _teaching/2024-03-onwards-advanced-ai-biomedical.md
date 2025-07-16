@@ -2,7 +2,7 @@
 title: "Advanced AI in Biomedical"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2024-onwards-advanced-ai-biomedical
+permalink: /teaching/2024-03-onwards-advanced-ai-biomedical
 venue: "Gachon University, Biomedical Engineering"
 date: 2024-03-04
 location: "Seongnam, South Korea"
