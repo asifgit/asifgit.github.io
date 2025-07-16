@@ -41,7 +41,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-3019-9191"
   semantic         : # URL
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=asif+mehmood+gachon+university"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=%28%28Asif+Mehmood%5BAuthor%5D%29%29+AND+%28%28Gachon+University%5BAffiliation%5D%29+OR+%28Kongju+National+University%5BAffiliation%5D%29+OR+%28Jeju+National+University%5BAffiliation%5D%29%29&sort=&filter=dates.2017%2F9%2F1-3000%2F12%2F12"
   researchgate     : "https://www.researchgate.net/profile/Asif-Mehmood-17/stats"
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=58557055200"
 
@@ -65,7 +65,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/asif-mehmood-18b10782/"
+  linkedin         : "asif-mehmood-18b10782"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
