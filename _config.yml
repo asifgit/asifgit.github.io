@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Asif Mehmood / Academic Portfolio"
+title                    : "Asif Mehmood / Portfolio"
 title_separator          : "-"
 name                     : &name "Asif Mehmood"
 description              : &description "I am a dedicated Researcher and Educator!"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Asif Mehmood"
   pronouns         : # example: "she/his"  
-  bio              : "Passionate researcher specializing in AI applications for biomedical and network systems, advancing intelligent solutions"
+  bio              : "Academic specializing in AI for biomedical and network systems, advancing intelligent solutions."
   location         : "Seongnam, South Korea"
   employer         : "Gachon University"
   uri              : "https://www.gachon.ac.kr/bme/4140/subview.do"
