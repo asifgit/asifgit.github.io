@@ -8,13 +8,19 @@ date: 2024-03-04
 location: "Seongnam, South Korea"
 ---
 
+Description
+=================
+
 This course explores cutting-edge artificial intelligence applications in biomedical science and healthcare. Topics include machine learning for medical data, deep learning for medical imaging, and AI-assisted diagnostics. Students gain hands-on experience working with real-world biomedical datasets using Python and AI frameworks.
 
-Machine learning in biomedical signal processing
-======
+Key Topics
+==========
 
-Deep learning models for medical image classification
-======
+- Machine learning in biomedical signal processing
+- Deep learning models for medical image classification 
+- Ethical and regulatory aspects of AI in healthcare
 
-Ethical and regulatory aspects of AI in healthcare
-======
+Outcomes
+========
+
+By the end of the course, students are equipped to apply AI methods to real biomedical problems and evaluate model performance for clinical relevance.
