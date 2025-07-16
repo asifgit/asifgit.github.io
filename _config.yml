@@ -22,7 +22,7 @@ repository               : "asifgit/asifgit.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Asif Mehmood"
   pronouns         : # example: "she/his"  
   bio              : "Academic specializing in AI for biomedical and network systems, advancing intelligent solutions."
@@ -35,6 +35,9 @@ author:
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=C14nwMMAAAAJ&sortby=pubdate"
+  webofscience     : "https://www.webofscience.com/wos/author/record/862693"
+  sciprofiles      : "https://sciprofiles.com/profile/asifmehmood"
+  ieeexplore       : "https://ieeexplore.ieee.org/author/37087082309"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-3019-9191"
   semantic         : # URL
