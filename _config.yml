@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Asif Mehmood / Site Title"
+title                    : "Asif Mehmood / Academic Portfolio"
 title_separator          : "-"
 name                     : &name "Asif Mehmood"
 description              : &description "I am a dedicated Researcher and Educator!"
@@ -38,7 +38,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-3019-9191"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=asif+mehmood+gachon+university"
   researchgate     : "https://www.researchgate.net/profile/Asif-Mehmood-17/stats"
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=58557055200"
 
@@ -52,7 +52,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
