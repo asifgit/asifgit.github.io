@@ -49,27 +49,33 @@ SFC, E2E orchestration, and DPDK-based networking.
   * U Microfinance Bank
   * Duties included: I was responsible for looking after the development and deployment of both branch and branch-less banking systems. I developed several window-services for the project, i.e., U-PAISA. Besides this, I was responsible to put innovative ideas related to automation of intra-operational activities that were manually performed between the bank’s internal teams. Developing the interfaces to generate oracle-based reports through the use of Jasper-server, was also a part of my responsibility.
   
-# Skills
-# ======
-# * Skill 1
-# * Skill 2
-#   * Sub-skill 2.1
-#   * Sub-skill 2.2
-#   * Sub-skill 2.3
-# * Skill 3
+<!-- 
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
+-->
 
+<!--
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-#Talks
-#======
-#  <ul>{% for post in site.talks reversed %}
-#    {% include archive-single-talk-cv.html  %}
-#  {% endfor %}</ul>
-  
+-->
+
+<!--
+Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+-->
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
